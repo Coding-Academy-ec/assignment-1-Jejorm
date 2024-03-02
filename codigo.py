@@ -17,7 +17,6 @@ def factorial(n):
         # Escribe aqui el return de la operacion anterior
         return 1
     else:
-        pass
         return n * factorial(n-1)
         # Escribe aqui el return de la operacion contraria a la operacion anterior
 
